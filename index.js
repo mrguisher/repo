@@ -17,5 +17,9 @@ function imagesToggleTimer() {
 }
 
 function q() {
-	return 1
+	console.log('michal changed this func')
+}
+
+function hehe() {
+	return null
 }
