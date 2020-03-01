@@ -13,10 +13,9 @@ function imagesToggle() {
 }
 
 function imagesToggleTimer() {
-	const images = document.querySelectorAll('img');
-	let counter = 0;
-		setInterval(() => {
-			counter++
-			images[counter].scrollIntoView()
-		})	
+	console.log('michal changed this func')
+}
+
+function hehe() {
+	return null
 }
