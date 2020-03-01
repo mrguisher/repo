@@ -15,3 +15,7 @@ function imagesToggle() {
 function imagesToggleTimer() {
 	console.log('michal changed this func')
 }
+
+function hehe() {
+	return null
+}
