@@ -13,6 +13,10 @@ function imagesToggle() {
 }
 
 function imagesToggleTimer() {
+	console.log('mateusz changed this function')
+}
+
+function q() {
 	console.log('michal changed this func')
 }
 
