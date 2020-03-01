@@ -15,3 +15,7 @@ function imagesToggle() {
 function imagesToggleTimer() {
 	console.log('mateusz changed this function')
 }
+
+function q() {
+	return 1
+}
